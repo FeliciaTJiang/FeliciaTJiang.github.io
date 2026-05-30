@@ -1,59 +1,48 @@
-title: "Felicia Jiang"
-description: "Ph.D. candidate in medicine"
-url: "https://feliciajiangbio.github.io"
-baseurl: ""  # 根目录
-repository: "FeliciaJiangBio/FeliciaJiangBio.github.io"
+title: "Felicia T. Jiang"
+description: "PhD candidate in computational cancer biology | Isoform-centric proteoform biology"
+url: "https://feliciatjiang.github.io"
+baseurl: ""
+repository: "FeliciaTJiang/FeliciaTJiang.github.io"
 
-# 使用 GitHub Pages 默认兼容主题（可自定义）
 remote_theme: "mmistakes/minimal-mistakes"
 
-# 作者信息
 author:
-  name: "Felicia Jiang"
+  name: "Felicia T. Jiang"
   avatar: "profile.png"
-  bio: "Ph.D. candidate in medicine"
-  location: "Shatin, Hong Kong"
-  employer: "Chinese University of Hong Kong"
-  uri: "https://feliciajiangbio.github.io/"
-  email: "taojiangcuhk@gmail.com"
-  github: "FeliciaJiangBio"
+  bio: "PhD candidate in computational cancer biology"
+  location: "Hong Kong"
+  employer: "The Chinese University of Hong Kong"
+  uri: "https://feliciatjiang.github.io/"
+  email: "tjiang@surgery.cuhk.edu.hk"
+  github: "FeliciaTJiang"
   googlescholar: "https://scholar.google.com/citations?user=_YT1sPQAAAAJ&hl=en&oi=sra"
   orcid: "https://orcid.org/0000-0001-8607-6804"
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=tao+jiang"
-  bluesky: "bsky.app"
 
-# 使用白名单插件
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
-# 使用这些插件需要同时 whitelisting
 whitelist:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
-# Markdown 设置
 markdown: kramdown
 kramdown:
   input: GFM
 
-# 输出设置
 permalink: /:categories/:title/
-timezone: "Etc/UTC"
+timezone: "Asia/Hong_Kong"
 
-# 其他页面设置
 include:
   - _pages
-  - 3DisoGalaxy
 
 collections:
-  teaching:
-    output: true
   publications:
     output: true
   portfolio:
-    output: true
-  talks:
     output: true
   pages:
     output: true
@@ -66,7 +55,6 @@ defaults:
       layout: single
       author_profile: true
 
-# 压缩 HTML（可选）
 compress_html:
   clippings: all
   ignore:
