@@ -12,7 +12,7 @@ redirect_from: [/about/, /about.html]
     <p class="hero-copy">AI · Multi-omics · Protein biology · Target discovery</p>
     <div class="hero-actions"><a class="research-button" href="/3DisoTarget/">Explore 3DisoTarget</a><a class="research-button research-button--ghost" href="/publications/">Publications</a></div>
   </div>
-  <div class="hero-mark"><img src="/images/3Diso.png" alt="3Diso research program logo"></div>
+  <div class="hero-mark"><img src="/images/3Diso.jpg" alt="3Diso research program logo"></div>
 </section>
 
 <section class="research-section" id="research-program">
