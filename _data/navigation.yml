@@ -8,25 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Research"
+    url: /#research-program
+  - title: "3DisoTarget"
+    url: /3DisoTarget/
   - title: "3DisoGalaxy"
-    url: /3DisoGalaxy/  
-
-  - title: "3DisoTransFold"
-    url: /3DisoTransFold/      
-
+    url: http://3disogalaxy.com/
+  - title: "3DisoDeepPF"
+    url: http://www.3disodeeppf.com/
   - title: "Publications"
     url: /publications/
-
-  - title: "3DisoDeepPF"
-    url: /3DisoDeepPF/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Posters"
-    url: /posters/  
-    
   - title: "CV"
     url: /cv/
     
-
