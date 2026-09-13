@@ -41,11 +41,11 @@ Department of Surgery, Faculty of Medicine · Supervisor: Prof. Xin Wang
 
 ## Selected publications
 
-- **Jiang, F. T. et al.** An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF. *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.04.24.720502)
-- **Jiang, F. T. et al.** Alternative splicing expands and remodels the breast cancer proteoform landscape. *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.04.30.722115)
-- **Luo, T. et al.** Cell-selective delivery of RIBOTACs via an anti-EGFR nanobody for pancreatic cancer treatment. *Advanced Science* (2026), e76575.
-- **Jiang, T. et al.** MetaGXplore: Integrating multi-omics data with graph convolutional networks for pan-cancer patient metastasis identification. *IEEE BIBM* (2024), 956–961. First author.
-- **Jiang, T. et al.** Chromosomal-level genome assembly of a true bug, *Aspongopus chinensis* Dallas, 1851. *Genome Biology and Evolution* 13(10), evab232 (2021). First author.
+- **Jiang, F. T. et al.** An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF. *bioRxiv* (2026). [Preprint](https://www.biorxiv.org/content/10.64898/2026.04.24.720502v3)
+- **Jiang, F. T. et al.** Alternative splicing expands and remodels the breast cancer proteoform landscape. *bioRxiv* (2026). [Preprint](https://www.biorxiv.org/content/10.64898/2026.04.30.722115v4)
+- **Luo, T. et al.** Cell-selective delivery of RIBOTACs via an anti-EGFR nanobody for pancreatic cancer treatment. *Advanced Science* (2026), e76575. [Article](https://doi.org/10.1002/advs.76575)
+- **Jiang, T. et al.** MetaGXplore: Integrating multi-omics data with graph convolutional networks for pan-cancer patient metastasis identification. *IEEE BIBM* (2024), 956–961. First author. [Article](https://doi.org/10.1109/BIBM62325.2024.10822439)
+- **Jiang, T. et al.** Chromosomal-level genome assembly of a true bug, *Aspongopus chinensis* Dallas, 1851. *Genome Biology and Evolution* 13(10), evab232 (2021). First author. [Article](https://doi.org/10.1093/gbe/evab232)
 
 ## Methods
 

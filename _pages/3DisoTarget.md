@@ -5,7 +5,7 @@ permalink: /3DisoTarget/
 author_profile: true
 ---
 
-<section class="research-hero research-hero--project"><p class="eyebrow">03 / TRANSLATE</p><h1>Proteoform-resolved target prioritization.</h1><p class="hero-copy">3DisoTarget is an AI-agent framework designed to identify which cancer-associated protein changes are therapeutically actionable—and how each candidate should be targeted.</p></section>
+<section class="research-hero research-hero--project visual-project-hero"><div><p class="eyebrow">03 / TRANSLATE</p><h1>Proteoform-resolved target prioritization.</h1><p class="hero-copy">Which protein changes are actionable—and how should they be targeted?</p></div><img src="/images/3DisoTarget.jpg" alt="3DisoTarget therapeutic prioritization illustration"></section>
 
 ## The question
 
