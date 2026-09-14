@@ -19,11 +19,11 @@ redirect_from: [/about/, /about.html]
   <p class="eyebrow">RESEARCH PROGRAM</p>
   <h2>Discover. Interpret. Translate.</h2>
   <div class="visual-project-grid">
-    <a class="visual-project" href="https://3disogalaxy.com/">
+    <a class="visual-project" href="http://3disogalaxy.com/">
       <img src="/images/3DisoGalaxy.jpg" alt="3DisoGalaxy protein isoform atlas illustration">
       <div><span>01 / DISCOVER</span><h3>3DisoGalaxy</h3><p>Breast cancer proteoform atlas</p></div>
     </a>
-    <a class="visual-project" href="https://3disodeeppf.com/">
+    <a class="visual-project" href="http://3disodeeppf.com/">
       <img src="/images/3DisoDeepPF.jpg" alt="3DisoDeepPF function prediction illustration">
       <div><span>02 / INTERPRET</span><h3>3DisoDeepPF</h3><p>Structure-aware function prediction</p></div>
     </a>
