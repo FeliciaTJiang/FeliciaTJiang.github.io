@@ -7,9 +7,9 @@ redirect_from: [/about/, /about.html]
 
 <section class="research-hero research-hero--visual">
   <div class="hero-main">
-    <p class="eyebrow">AI SCIENTIST</p>
+    <p class="eyebrow">COMPUTATIONAL AI SCIENTIST</p>
     <h1>From molecular data<br>to therapeutic discovery.</h1>
-    <p class="hero-copy">Multimodal AI · Multi-omics data · Protein biology · Therapeutic discovery</p>
+    <p class="hero-copy">AI for biomedicine and cancer · Multi-omics data · Protein biology · Therapeutic discovery</p>
     <div class="hero-actions"><a class="research-button" href="/Agent3Diso/">Explore Agent3Diso</a><a class="research-button research-button--ghost" href="/publications/">Publications</a></div>
   </div>
   <div class="hero-mark"><img src="/images/3Diso.jpg" alt="3Diso research program logo"></div>
