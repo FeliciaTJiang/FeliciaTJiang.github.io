@@ -8,7 +8,7 @@ redirect_from: [/resume]
 
 ## Scientific identity
 
-I develop multimodal AI methods and evidence-linked molecular data resources for biomedical discovery. My research integrates long-read transcriptomics, protein sequence and structure, graph learning, and evidence-grounded AI reasoning to connect molecular variation with functional interpretation and therapeutic design.
+I am a computational AI scientist working in biomedicine and cancer. I develop multimodal AI methods and evidence-linked molecular data resources for biomedical discovery. My research integrates long-read transcriptomics, protein sequence and structure, graph learning, and evidence-grounded AI reasoning to connect molecular variation with functional interpretation and therapeutic design.
 
 ## Scientific trajectory
 
