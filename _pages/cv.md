@@ -8,7 +8,15 @@ redirect_from: [/resume]
 
 ## Scientific identity
 
-Computational cancer scientist developing AI and multi-omics systems that connect molecular variation to protein function, target prioritization, and therapeutic strategy selection.
+I develop multimodal AI methods and evidence-linked molecular data resources for biomedical discovery. My research integrates long-read transcriptomics, protein sequence and structure, graph learning, and evidence-grounded AI reasoning to connect molecular variation with functional interpretation and therapeutic design.
+
+## Scientific trajectory
+
+**Molecular Data → AI → Therapeutic Discovery**
+
+1. **Discover · 3DisoGalaxy.** Identify splice-derived molecular forms in cancer through long-read RNA, Ribo-seq, proteomics, and a structural atlas.
+2. **Interpret · 3DisoDeepPF.** Predict how protein isoforms differ in function using multimodal graph AI across sequence, structure, and similarity networks.
+3. **Translate · Agent3Diso.** Prioritize therapeutically actionable molecular forms through evidence-grounded AI, target prioritization, and intervention design.
 
 ## Research experience
 
@@ -16,14 +24,14 @@ Computational cancer scientist developing AI and multi-omics systems that connec
 
 Department of Surgery, Faculty of Medicine · Supervisor: Prof. Xin Wang
 
-- Conceived and led the 3Diso research program across molecular discovery, functional interpretation, and therapeutic translation.
-- Built 3DisoGalaxy, an isoform-resolved breast cancer proteoform atlas integrating long-read transcriptomics, RNA-seq, Ribo-seq, proteomics, structural models, and regulatory evidence.
-- Built 3DisoDeepPF, a multimodal AI framework for protein function prediction and isoform-level consequence analysis.
-- Developing 3DisoTarget, an agentic AI framework for proteoform target prioritization and therapeutic strategy selection.
+- **3DisoDeepPF · Multimodal AI method development.** Developed a graph-based deep-learning framework integrating protein sequence, 3D structure, and molecular similarity networks to predict protein functions and evaluate isoform-level differences.
+- **3DisoGalaxy · Multi-omics data resource.** Built an isoform-resolved breast cancer atlas linking long-read transcripts, RNA-seq, ribosome profiling, proteomics, protein structures, and regulatory evidence.
+- **Agent3Diso · Evidence-grounded therapeutic AI.** Developed a hybrid deterministic-agent framework for molecular-identity checks, evidence synthesis, and intervention prioritization, generating traceable isoform-aware therapeutic hypotheses.
+- **Independent research leadership.** Led research from scientific question and data architecture through AI implementation, benchmarking, biological analysis, public resources, and first-author manuscripts.
 
 ### Research Collaborator · Peking University · 2021–Present
 
-- Initiated and led MetaGXplore for graph-based pan-cancer multi-omics integration and metastasis identification.
+- Initiated and led MetaGXplore, integrating pan-cancer multi-omics data with graph convolutional networks for metastasis-related patient stratification.
 
 ### Research Assistant · The Chinese University of Hong Kong · 2022–2023
 
@@ -31,7 +39,7 @@ Department of Surgery, Faculty of Medicine · Supervisor: Prof. Xin Wang
 
 ### Lecturer · Guizhou University · 2017–2022
 
-- Taught undergraduate Bioinformatics and Genomics and developed comparative-genomics, genome, and transcriptome analysis workflows.
+- Lectured in Bioinformatics and Genomics; developed practical genomics and transcriptomics workflows and guided computational analysis.
 
 ## Education
 
@@ -41,18 +49,32 @@ Department of Surgery, Faculty of Medicine · Supervisor: Prof. Xin Wang
 
 ## Selected publications
 
-- **Jiang, F. T. et al.** An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF. *bioRxiv* (2026). [Preprint](https://www.biorxiv.org/content/10.64898/2026.04.24.720502v3)
-- **Jiang, F. T. et al.** Alternative splicing expands and remodels the breast cancer proteoform landscape. *bioRxiv* (2026). [Preprint](https://www.biorxiv.org/content/10.64898/2026.04.30.722115v4)
+- **Jiang, F. T. et al.** An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF. *bioRxiv* (2026). Submitted to *Nature Methods*. [Preprint](https://doi.org/10.64898/2026.04.24.720502)
+- **Jiang, F. T. et al.** Alternative splicing expands and remodels the breast cancer proteoform landscape. *bioRxiv* (2026). Submitted to *Nature Communications*. [Preprint](https://doi.org/10.64898/2026.04.30.722115)
+- **Jiang, F. T. & Zhao, R.** Expanding Therapeutic Target Space from Genes to Disease-Relevant Molecular Forms with Agent3Diso. *bioRxiv* (2026). Experimental follow-up in progress. [Preprint](https://doi.org/10.64898/2026.10.21.760710)
 - **Luo, T. et al.** Cell-selective delivery of RIBOTACs via an anti-EGFR nanobody for pancreatic cancer treatment. *Advanced Science* (2026), e76575. [Article](https://doi.org/10.1002/advs.76575)
+- **Zhang, Y., Jiang, F. T., Li, C. S., et al.** Nativeness-constrained diffusion framework for nanobody design. Co-first author; manuscript in preparation.
 - **Jiang, T. et al.** MetaGXplore: Integrating multi-omics data with graph convolutional networks for pan-cancer patient metastasis identification. *IEEE BIBM* (2024), 956–961. First author. [Article](https://doi.org/10.1109/BIBM62325.2024.10822439)
 - **Jiang, T. et al.** Chromosomal-level genome assembly of a true bug, *Aspongopus chinensis* Dallas, 1851. *Genome Biology and Evolution* 13(10), evab232 (2021). First author. [Article](https://doi.org/10.1093/gbe/evab232)
 
-## Methods
+## Core capabilities
 
-Python · R · Linux/Bash · deep learning · graph neural networks · multimodal learning · protein language models · long-read transcriptomics · RNA-seq · Ribo-seq · proteomics · AlphaFold/ColabFold · Foldseek · domain and motif analysis · reproducible pipelines · benchmark design · evidence integration
+- **AI model development:** Multimodal deep learning, graph neural networks, function prediction, and model benchmarking
+- **Evidence-linked multi-omics data:** Long-read RNA, RNA-seq, Ribo-seq, proteomics, and data integration
+- **Splicing-resolved biology:** Transcript isoforms, protein structures, domains, and functional interpretation
+- **Therapeutic AI:** Evidence-constrained reasoning, target prioritization, and intervention design
+- **Reproducible research:** Dataset curation, benchmarking, uncertainty assessment, and public research tools
+
+## Methods and tools
+
+Python · R · Linux/Bash · deep learning · graph neural networks · multimodal AI · protein language models · long-read RNA · RNA-seq · Ribo-seq · proteomics · AlphaFold/ColabFold · Foldseek · domain and motif analysis · structural comparison · reproducible pipelines · benchmark design · evidence integration · research platforms
 
 ## Selected honors and communication
 
 - Best Speaker Prize, Greater Bay Area AI for Science PhD Forum, 2025
 - Research Postgraduate Studentship, full scholarship, CUHK, 2023–2026
 - ISMB/ECCB 2025 poster on isoform-level structural and functional diversification in breast cancer
+
+## Research links
+
+[3DisoGalaxy](http://3disogalaxy.com/) · [3DisoDeepPF](http://3disodeeppf.com/) · [Agent3Diso](https://doi.org/10.64898/2026.10.21.760710) · [Research talk](https://www.youtube.com/watch?v=fWhvqnsUSW8) · [3DisoDeepPF audio summary](https://sciencecast.org/casts/mhtj5zqyvkxa)
