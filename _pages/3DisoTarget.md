@@ -1,15 +1,16 @@
 ---
 layout: single
-title: "3DisoTarget"
-permalink: /3DisoTarget/
+title: "Agent3Diso"
+permalink: /Agent3Diso/
 author_profile: true
+redirect_from: [/3DisoTarget/]
 ---
 
-<section class="research-hero research-hero--project visual-project-hero"><div><p class="eyebrow">03 / TRANSLATE</p><h1>Proteoform-resolved target prioritization.</h1><p class="hero-copy">Which protein changes are actionable—and how should they be targeted?</p></div><img src="/images/3DisoTarget.jpg" alt="3DisoTarget therapeutic prioritization illustration"></section>
+<section class="research-hero research-hero--project visual-project-hero"><div><p class="eyebrow">03 / TRANSLATE</p><h1>Evidence-grounded therapeutic AI.</h1><p class="hero-copy">Which disease-relevant molecular forms are actionable—and how should they be targeted?</p></div><img src="/images/3DisoTarget.jpg" alt="Agent3Diso evidence-grounded therapeutic AI illustration"></section>
 
 ## The question
 
-Cancer-associated proteoforms can differ in expression, sequence, structure, regulation, and functional context. 3DisoTarget organizes these signals into a traceable decision process: from a candidate proteoform, through evidence-based prioritization, to a target-matched intervention strategy.
+Cancer-associated molecular forms can differ in expression, sequence, structure, regulation, and functional context. Agent3Diso is a completed hybrid deterministic-agent framework that organizes these signals into a traceable decision process: from molecular-identity checks and evidence synthesis to intervention prioritization and isoform-aware therapeutic hypotheses.
 
 ## Evidence architecture
 
@@ -30,12 +31,12 @@ Cancer-associated proteoforms can differ in expression, sequence, structure, reg
 - Targeted protein degradation for intracellular proteins with suitable ligand opportunities
 - Small molecules for structurally tractable pockets, interfaces, or regulatory mechanisms
 
-## Intended output
+## Research output
 
-The framework is being developed to produce a ranked, auditable target portfolio. Each nomination links the underlying molecular state to supporting and contradicting evidence, a recommended therapeutic modality, validation priorities, and explicit uncertainty. The goal is to make target selection more rigorous, interpretable, and experimentally actionable.
+The completed framework produces ranked, auditable therapeutic hypotheses. Each nomination links the underlying molecular state to supporting and contradicting evidence, a recommended therapeutic modality, validation priorities, and explicit uncertainty. The goal is to make target selection more rigorous, interpretable, and experimentally actionable.
 
 ## Program context
 
-3DisoTarget is the translational stage of a broader research program. [3DisoGalaxy](http://3disogalaxy.com/) discovers cancer proteoform diversity, while [3DisoDeepPF](http://www.3disodeeppf.com/) interprets functional consequences. 3DisoTarget converts those discoveries into therapeutic hypotheses.
+Agent3Diso is the translational stage of a broader research program. [3DisoGalaxy](http://3disogalaxy.com/) discovers cancer proteoform diversity, while [3DisoDeepPF](http://www.3disodeeppf.com/) interprets functional consequences. Agent3Diso converts those discoveries into evidence-linked therapeutic hypotheses.
 
-*Current status: research blueprint and manuscript in preparation.*
+**Current status:** Project completed. The manuscript, *Expanding Therapeutic Target Space from Genes to Disease-Relevant Molecular Forms with Agent3Diso*, is available as a [bioRxiv preprint](https://doi.org/10.64898/2026.10.21.760710); experimental follow-up is in progress.
