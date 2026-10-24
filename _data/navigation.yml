@@ -10,8 +10,8 @@
 main:
   - title: "Research"
     url: /#research-program
-  - title: "3DisoTarget"
-    url: /3DisoTarget/
+  - title: "Agent3Diso"
+    url: /Agent3Diso/
   - title: "3DisoGalaxy"
     url: http://3disogalaxy.com/
   - title: "3DisoDeepPF"
