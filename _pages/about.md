@@ -7,16 +7,22 @@ redirect_from: [/about/, /about.html]
 
 <section class="research-hero research-hero--visual">
   <div class="hero-main">
-    <p class="eyebrow">COMPUTATIONAL CANCER SCIENTIST</p>
-    <h1>From molecular variation<br>to therapeutic decisions.</h1>
-    <p class="hero-copy">AI · Multi-omics · Protein biology · Target discovery</p>
-    <div class="hero-actions"><a class="research-button" href="/3DisoTarget/">Explore 3DisoTarget</a><a class="research-button research-button--ghost" href="/publications/">Publications</a></div>
+    <p class="eyebrow">AI SCIENTIST</p>
+    <h1>From molecular data<br>to therapeutic discovery.</h1>
+    <p class="hero-copy">Multimodal AI · Multi-omics data · Protein biology · Therapeutic discovery</p>
+    <div class="hero-actions"><a class="research-button" href="/Agent3Diso/">Explore Agent3Diso</a><a class="research-button research-button--ghost" href="/publications/">Publications</a></div>
   </div>
   <div class="hero-mark"><img src="/images/3Diso.jpg" alt="3Diso research program logo"></div>
 </section>
 
+<section class="research-section research-section--compact">
+  <p class="eyebrow">SCIENTIFIC IDENTITY</p>
+  <h2>Molecular Data → AI → Therapeutic Discovery</h2>
+  <p>I develop multimodal AI methods and evidence-linked molecular data resources for biomedical discovery. My research integrates long-read transcriptomics, protein sequence and structure, graph learning, and evidence-grounded AI reasoning to connect molecular variation with functional interpretation and therapeutic design.</p>
+</section>
+
 <section class="research-section" id="research-program">
-  <p class="eyebrow">RESEARCH PROGRAM</p>
+  <p class="eyebrow">SCIENTIFIC TRAJECTORY</p>
   <h2>Discover. Interpret. Translate.</h2>
   <div class="visual-project-grid">
     <a class="visual-project" href="http://3disogalaxy.com/">
@@ -27,9 +33,9 @@ redirect_from: [/about/, /about.html]
       <img src="/images/3DisoDeepPF.jpg" alt="3DisoDeepPF function prediction illustration">
       <div><span>02 / INTERPRET</span><h3>3DisoDeepPF</h3><p>Structure-aware function prediction</p></div>
     </a>
-    <a class="visual-project" href="/3DisoTarget/">
-      <img src="/images/3DisoTarget.jpg" alt="3DisoTarget therapeutic prioritization illustration">
-      <div><span>03 / TRANSLATE</span><h3>3DisoTarget</h3><p>Target and therapeutic strategy selection</p></div>
+    <a class="visual-project" href="/Agent3Diso/">
+      <img src="/images/3DisoTarget.jpg" alt="Agent3Diso evidence-grounded therapeutic AI illustration">
+      <div><span>03 / TRANSLATE</span><h3>Agent3Diso</h3><p>Evidence-grounded therapeutic AI</p></div>
     </a>
   </div>
 </section>
@@ -37,9 +43,11 @@ redirect_from: [/about/, /about.html]
 <section class="research-section publication-section">
   <div class="section-heading"><div><p class="eyebrow">PUBLICATIONS</p><h2>Selected academic record</h2></div><a href="/publications/">View publication pages →</a></div>
 
-  <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">bioRxiv · First author</span><h3>An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF</h3></div><a href="https://www.biorxiv.org/content/10.64898/2026.04.24.720502v3">Preprint ↗</a></article>
+  <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">bioRxiv · First author</span><h3>An isoform-centric, structure-aware framework for protein function prediction and evaluation, instantiated in 3DisoDeepPF</h3></div><a href="https://doi.org/10.64898/2026.04.24.720502">Preprint ↗</a></article>
 
-  <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">bioRxiv · First author</span><h3>Alternative splicing expands and remodels the breast cancer proteoform landscape</h3></div><a href="https://www.biorxiv.org/content/10.64898/2026.04.30.722115v4">Preprint ↗</a></article>
+  <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">bioRxiv · First author</span><h3>Alternative splicing expands and remodels the breast cancer proteoform landscape</h3></div><a href="https://doi.org/10.64898/2026.04.30.722115">Preprint ↗</a></article>
+
+  <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">bioRxiv · First author</span><h3>Expanding Therapeutic Target Space from Genes to Disease-Relevant Molecular Forms with Agent3Diso</h3></div><a href="https://doi.org/10.64898/2026.10.21.760710">Preprint ↗</a></article>
 
   <article class="publication-row"><span class="pub-year">2026</span><div><span class="pub-type">Advanced Science</span><h3>Cell-selective delivery of RIBOTACs via an anti-EGFR nanobody for pancreatic cancer treatment</h3></div><a href="https://doi.org/10.1002/advs.76575">Article ↗</a></article>
 
